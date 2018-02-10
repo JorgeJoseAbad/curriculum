@@ -6,12 +6,21 @@ body{
   background-color: #eee9d5;
 }
 
+h1, h2, h3, h4{
+  color: forestgreen;
+  margin-top:2rem;
+}
+
 li{
   list-style: square inside;
 }
 
-.col li{
+.contact li{
   list-style:none;
+}
+
+#name{
+  text-align: center;
 }
 
 .material-icons{
@@ -20,14 +29,12 @@ li{
   vertical-align:bottom;
 }
 
-h1, h2, h3, h4{
-  color: forestgreen;
-  margin-top:1rem;
-}
-
 .links{
   margin-left: 50px;
+  background-color: #ddcda4;
+
 }
+
 .enum{
   font-size: 20px;
   font-style: oblique;
@@ -35,26 +42,10 @@ h1, h2, h3, h4{
 }
 
 .photo-carnet{
-  width: 200px;
+  width: 300px;
   height: auto;
 }
-.header{
-  width: 1170px;
-  height: 90px;
-  background-color: #eee;
-  margin-left: auto;
-  margin-right: auto;
 
+.contact li{
+  font-size: 1.4rem;
 }
-.topmenu > li{
-  display: inline;
-  padding-top: 40px;
-  margin: 30px;
-}
-
-.slidebox{
-  width: 1440px;
-  height: 550px;
-  background-color: #111;
-  color: yellow;
- }
