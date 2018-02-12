@@ -29,6 +29,10 @@ li{
   vertical-align:bottom;
 }
 
+.note{
+  font-size: 0.8em;
+}
+
 .links{
   margin-left: 50px;
   background-color: #ddcda4;
