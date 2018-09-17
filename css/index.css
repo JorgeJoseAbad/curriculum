@@ -34,7 +34,8 @@ li{
 }
 
 .links{
-  margin-left: 50px;
+  margin-left: 40px;
+  padding-left: 10px;
   background-color: #ddcda4;
 
 }
@@ -52,4 +53,8 @@ li{
 
 .contact li{
   font-size: 1.4rem;
+}
+
+#experience{
+  margin-left: 20px;
 }
