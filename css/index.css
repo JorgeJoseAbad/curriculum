@@ -21,8 +21,8 @@ li{
 
 #name{
   text-align: center;
+  width: 80%;
   margin: 0 auto;
-  width: 400px;
   margin-top: 10px;
   box-shadow: 5px 9px 7px 3px #225147;
 }
@@ -65,4 +65,9 @@ li{
 
 #my-ul{
   margin-left: 20px;
+}
+
+#datos-personales{
+  margin: 0 auto;
+  width: 80%;
 }
