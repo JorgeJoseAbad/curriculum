@@ -4,6 +4,7 @@ html{
 
 body{
   background-color: #eee9d5;
+  font-size: 20px;
 }
 
 h1, h2, h3, h4{
@@ -16,7 +17,10 @@ li{
 }
 
 .contact li{
-  list-style:none;
+  font-size: 1.5rem;
+  list-style: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #name{
@@ -59,9 +63,6 @@ li{
   box-shadow: 6px 6px 6px 3px #e8aab4
 }
 
-.contact li{
-  font-size: 1.4rem;
-}
 
 #my-ul{
   margin-left: 20px;
